@@ -1,0 +1,26 @@
+{
+  "name": "watchtf",
+  "version": "1.0.0",
+  "description": "CLI program to watch glob patterns and run a command on changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/Risto-Stevcev/watchtf.git"
+  },
+  "keywords": [
+    "watch",
+    "glob",
+    "pattern",
+    "cli",
+    "wtf"
+  ],
+  "author": "Risto Stevcev",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "yargs": "^6.1.1"
+  }
+}
