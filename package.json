@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CLI program to watch glob patterns and run a command on changes",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
